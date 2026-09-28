@@ -18,10 +18,11 @@ Currently building [**FeatureSignals**](https://featuresignals.com) — an open-
 
 ### Highlights
 
-- Raised unit-test coverage **12% → 70%**, enforced by a Jenkins quality gate — Aqua Security
 - Moved **100,000+ cloud records** through data pipelines in **under 6 minutes** — ZScaler
+- Built microservices on **AWS, GCP, and Azure SDKs** evaluating security policies at scale — ZScaler
+- Shipped the **JFrog Artifactory webhook** streaming Docker push events, with retry handling that **eliminated customer license-count losses** — Aqua Security
+- Built an **MCP server** powering a customer-facing **AI chatbot** — Aqua Security
 - Achieved **99.99% uptime** managing production cloud deployments
-- Built an **MCP server** that powers a customer-facing AI chatbot — Aqua Security
 
 ## Featured Projects
 
